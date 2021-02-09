@@ -5,8 +5,9 @@
 * Docker
 * Kubernetes
 * Manjaro (⚡ Arch Linux)
+* RaspberryPi 
 * DevOps 
-* (CI/CD pipeline)
+* CI/CD pipeline
 * Free and open source software 
 * ☕ 
 
