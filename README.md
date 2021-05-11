@@ -1,6 +1,11 @@
 ### Hi I am Michal 👋
 
-#### Interested in
+### Moved most of github repositories into [gitlab](https://about.gitlab.com/)
+
+* [gitlab.com/Mishco](https://gitlab.com/Mishco)
+* Most repositories on github are archived or read-only.
+
+### Interested in
 
 * Docker
 * Kubernetes
@@ -10,11 +15,6 @@
 * CI/CD pipeline
 * Free and open source software 
 * ☕ 
-
-### Moved most of github repositories into [gitlab](https://about.gitlab.com/)
-
-* [gitlab.com/Mishco](https://gitlab.com/Mishco)
-* Most repositories on github are archived or read-only.
 
 ### Web
 
