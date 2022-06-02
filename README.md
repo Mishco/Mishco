@@ -9,7 +9,7 @@
 
 * Docker
 * Kubernetes
-* Manjaro (⚡ Arch Linux)
+* Manjaro (⚡ Arch Linux)Cancel changes
 * RaspberryPi 
 * DevOps 
 * CI/CD pipeline
@@ -19,3 +19,4 @@
 ### Web
 
 * Go through my [website](https://mishco.gitlab.io/) 🌐
+* [Medium blog](https://medium.com/@michal.slovik) 
