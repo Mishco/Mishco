@@ -9,7 +9,6 @@
 
 * Docker
 * Kubernetes
-* Manjaro (⚡ Arch Linux)Cancel changes
 * RaspberryPi 
 * DevOps 
 * CI/CD pipeline
