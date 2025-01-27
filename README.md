@@ -12,7 +12,7 @@
 * RaspberryPi 
 * DevOps 
 * CI/CD pipeline
-* Free and open source software 
+* Open source 
 * ☕ 
 
 ### Web
