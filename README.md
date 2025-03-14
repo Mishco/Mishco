@@ -1,9 +1,9 @@
 ### Hi I am Michal 👋
 
-### Moved most of github repositories into [gitlab](https://about.gitlab.com/)
+### Moved some of github repositories into [gitlab](https://about.gitlab.com/)
 
-* [gitlab.com/Mishco](https://gitlab.com/Mishco)
-* Most repositories on github are archived or read-only.
+* Repositories on Gitlab [gitlab.com/Mishco](https://gitlab.com/Mishco)
+* Some repositories on github are archived or read-only.
 
 ### Interested in
 
